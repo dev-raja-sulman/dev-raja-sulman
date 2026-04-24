@@ -1,97 +1,54 @@
-<h1 align="center">Hi 👋, I'm Raja Sulman</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+🤖;Backend+Developer+⚙️;Generative+AI+Builder+🧠;Agentic+AI+Systems+🚀&center=true&width=600&height=50">
-</p>
-
----
-
-## 💫 About Me
-
-Hi 👋 I'm **Raja Sulman**, an AI Engineer & Backend Developer from Pakistan 🇵🇰  
-
-- 🤖 Building **Agentic AI Systems & Intelligent Automation**
-- 🧠 Passionate about **Generative AI, NLP & Deep Learning**
-- ⚙️ Focused on **Scalable Backend Systems & APIs**
-- 📊 Working on **Machine Learning & Data-driven Applications**
+<div align="center">
+  <h1>Hi, I'm Raja Sulman 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2FB1FF&center=true&vCenter=true&width=435&lines=AI+Engineer;Python+Developer;Flask+Developer" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🚀 Current Focus
-
-- 🔭 Developing **AI Agents & Automation Systems**
-- 🌱 Learning **LLM Fine-tuning & Multimodal AI**
-- 💬 Exploring **Real-world AI Product Engineering**
-- ⚡ Turning ideas into **production-ready AI systems**
-
----
-
-## 💻 Tech Stack
-
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<div align="center">
+  <p align="center">🚀 <strong>About Me</strong></p>
+  <p align="center">
+    I’m a passionate software developer with a focus on Machine Learning and Python development. With experience in creating innovative AI projects and building dynamic web applications using Flask & FastAPI, I thrive on solving real-world problems.
+  </p>
+</div>
 
 ---
 
-### ⚙️ Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<div align="center">
+  <p align="center">🔥 <strong>Highlights</strong></p>
+</div>
+
+* 🎓 **Merit Scholar** in BS Software Engineering with honors for **5 consecutive semesters**.
+* 💻 **Experienced AI Engineer** with a focus on Agentic Systems and real-time AI solutions.
+* 🧠 **LLM Researcher** exploring Fine-tuning, RAGs, and Multimodal AI architectures.
+* 🌐 **Backend Developer** proficient in building dynamic web applications using **Flask & FastAPI**.
+* 📄 **AI Innovator** currently working on Agentic AI Systems and Intelligent Automation.
+* ⚡ **Fun Fact:** I love turning ideas into real AI products.
 
 ---
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<div align="center">
+  <strong>💻 Tech Stack</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /> 
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+</div>
 
 ---
 
-### 🛠️ Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+  <strong>📊 GitHub Stats</strong>
+  <br><br>
+  <img src="https://github-readme-stats.shion.dev/api?username=dev-raja-sulman&theme=dark&hide_border=false&include_all_commits=true" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=dev-raja-sulman&theme=dark" />
+</div>
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raja-sulman-82764b3b)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance)](https://behance.net/rajasulman)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/rajasulman.bsky.social)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-raja-sulman&theme=radical&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dev-raja-sulman&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-raja-sulman&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 Highlights
-
-- 🤖 AI & ML Systems Developer
-- ⚙️ Backend & API Engineering
-- 🧠 Agentic AI & Automation Focus
-- 🚀 Building real-world production apps
-
----
-
-## ✍️ Quote
-
-> "Let’s build something amazing with AI 🚀"
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-raja-sulman&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+</div>
